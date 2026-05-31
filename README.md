@@ -2,7 +2,7 @@
 
 A fun, interactive browser-based number guessing game where players try to guess a randomly generated secret number within a customizable range. Built with HTML, CSS, and JavaScript.
 
-![Game Screenshot]()
+![Game Screenshot](images/Screenshot 2026-05-31 213831.png)
 
 ## 🎮 How to Play
 
